@@ -1,0 +1,133 @@
+{
+    "dc_publisher_name": "Hoogheemraadschap van Delfland",
+    "tooiw1_topic": "Ruimte en infrastructuur | Organisatie en beleid",
+    "foi_wepRubriek": "c_11b611a05",
+    "dc_title": "Hoogheemraadschap van Delfland \u2013 Ontwerpbesluit tot parti\u00eble wijziging van de Legger Delfland op de locaties Boswoning 106 Honselersdijk, Nieuwe Tuinen Honselersdijk, Lange Kruisweg Maasdijk, Brasserskade Den Haag, Slimme Watering Schiedam, Reinier de Graafweg Delft,  Van Beethovenlaan/Josef Oreliosingel Schiedam, Zwethkade Zuid 57 Den Hoorn, Veilingweg De Lier en  Park Koekamp Den Haag",
+    "foi_publishedDate": "2023-08-08",
+    "dc_date_year": "2023",
+    "dc_source": "https://zoek.officielebekendmakingen.nl/wsb-2023-9505.html",
+    "dc_type": "2k",
+    "foi_wepRubriek_name": "andere vergunning",
+    "dc_publisher": "ws0372",
+    "dc_description": "Dijkgraaf en hoogheemraden van Delfland zijn voornemens om de leggerkaart behorende bij de Legger Delfland partieel te wijzigen, zoals aangegeven op de digitale verbeelding van de leggerwijziging \u201c Leggerwijzigingskaart terinzagelegging (leggeractualisatie LEGGER2023-D-14 ) \u201d.",
+    "foi_files": {
+        "foi_documenten": [
+            {
+                "dc_title": "bijlage 1",
+                "dc_source": "https://repository.officiele-overheidspublicaties.nl/externebijlagen/exb-2023-37851/1/bijlage/exb-2023-37851.pdf",
+                "dc_type": "bijlage",
+                "foi_url_on_web": true
+            },
+            {
+                "dc_title": "bijlage 2",
+                "dc_source": "https://repository.officiele-overheidspublicaties.nl/externebijlagen/exb-2023-37852/1/bijlage/exb-2023-37852.pdf",
+                "dc_type": "bijlage",
+                "foi_url_on_web": true
+            }
+        ]
+    },
+    "foi_overheidOP_geo": [
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(74633.446 446707.095)",
+            "foi_subjectCoordinates": "(52.00291238361515, 4.216795972773184)",
+            "OVERHEIDop.ligtInGemeente": "Westland",
+            "OVERHEIDop.huisnummer": "106",
+            "OVERHEIDop.postcode": "2675DZ",
+            "OVERHEIDop.straatnaam": "Boswoning",
+            "OVERHEIDop.woonplaats": "Honselersdijk"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(75700.613 447991.246)",
+            "foi_subjectCoordinates": "(52.01460611608383, 4.232037086431801)",
+            "OVERHEIDop.ligtInGemeente": "Westland",
+            "OVERHEIDop.huisnummer": "8",
+            "OVERHEIDop.postcode": "2675SG",
+            "OVERHEIDop.straatnaam": "Nieuwe Tuinen",
+            "OVERHEIDop.woonplaats": "Honselersdijk"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(74205.624 441500.194)",
+            "foi_subjectCoordinates": "(51.95605772534018, 4.211793400056907)",
+            "OVERHEIDop.ligtInGemeente": "Westland",
+            "OVERHEIDop.huisletter": "A",
+            "OVERHEIDop.huisnummer": "48",
+            "OVERHEIDop.postcode": "2676BM",
+            "OVERHEIDop.straatnaam": "Lange Kruisweg",
+            "OVERHEIDop.woonplaats": "Maasdijk"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(85492.951 449964.588)",
+            "foi_subjectCoordinates": "(52.033653762516934, 4.374259853382547)",
+            "OVERHEIDop.ligtInGemeente": "'s-Gravenhage",
+            "OVERHEIDop.huisnummer": "239",
+            "OVERHEIDop.postcode": "2497NX",
+            "OVERHEIDop.straatnaam": "Brasserskade",
+            "OVERHEIDop.woonplaats": "'s-Gravenhage"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(85386.461 440014.863)",
+            "foi_subjectCoordinates": "(51.94422200799904, 4.374728823231707)",
+            "OVERHEIDop.ligtInGemeente": "Schiedam",
+            "OVERHEIDop.huisnummer": "2",
+            "OVERHEIDop.postcode": "3124KH",
+            "OVERHEIDop.straatnaam": "Slimme Watering",
+            "OVERHEIDop.woonplaats": "Schiedam"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(83075.229 445974.845)",
+            "foi_subjectCoordinates": "(51.99748996961101, 4.339869642755071)",
+            "OVERHEIDop.ligtInGemeente": "Delft",
+            "OVERHEIDop.huisnummer": "3",
+            "OVERHEIDop.straatnaam": "Reinier de Graafweg",
+            "OVERHEIDop.woonplaats": "Delft"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(84936.833 438759.344)",
+            "foi_subjectCoordinates": "(51.93288208104164, 4.3684462846558585)",
+            "OVERHEIDop.ligtInGemeente": "Schiedam",
+            "OVERHEIDop.huisnummer": "180",
+            "OVERHEIDop.postcode": "3122TZ",
+            "OVERHEIDop.straatnaam": "Van Beethovenlaan",
+            "OVERHEIDop.woonplaats": "Schiedam"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(79643.524 447015.654)",
+            "foi_subjectCoordinates": "(52.00638824311684, 4.2896784310171485)",
+            "OVERHEIDop.ligtInGemeente": "Midden-Delfland",
+            "OVERHEIDop.huisnummer": "57",
+            "OVERHEIDop.postcode": "2635CW",
+            "OVERHEIDop.straatnaam": "Zwethkade Zuid",
+            "OVERHEIDop.woonplaats": "Den Hoorn"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(75400.799 443958.82)",
+            "foi_subjectCoordinates": "(51.97832513589235, 4.228607272313525)",
+            "OVERHEIDop.ligtInGemeente": "Westland",
+            "OVERHEIDop.huisnummer": "23",
+            "OVERHEIDop.postcode": "2678LN",
+            "OVERHEIDop.straatnaam": "Veilingweg",
+            "OVERHEIDop.woonplaats": "De Lier"
+        },
+        {
+            "OVERHEIDop.gebiedsmarkering": "Adres",
+            "OVERHEIDop.geometrie": "POINT(82129.614 455727.217)",
+            "foi_subjectCoordinates": "(52.085009633208536, 4.324023492102974)",
+            "OVERHEIDop.ligtInGemeente": "'s-Gravenhage",
+            "OVERHEIDop.huisnummer": "10",
+            "OVERHEIDop.postcode": "2594NB",
+            "OVERHEIDop.straatnaam": "Boslaan",
+            "OVERHEIDop.woonplaats": "'s-Gravenhage"
+        }
+    ],
+    "foi_bodyText_schema": "xml",
+    "foi_bodyText": "<officiele-publicatie xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://technische-documentatie.oep.overheid.nl/schema/op-xsd-2012-3\"><kop><titel>WATERSCHAPSBLAD</titel><subtitel>Offici\u00eble uitgave van het dagelijks bestuur van het Hoogheemraadschap van Delfland</subtitel></kop><waterschapsblad><kop><titel>Hoogheemraadschap van Delfland \u2013 Ontwerpbesluit tot parti\u00eble wijziging van de Legger Delfland op de locaties Boswoning 106 Honselersdijk, Nieuwe Tuinen Honselersdijk, Lange Kruisweg Maasdijk, Brasserskade Den Haag, Slimme Watering Schiedam, Reinier de Graafweg Delft,  Van Beethovenlaan/Josef Oreliosingel Schiedam, Zwethkade Zuid 57 Den Hoorn, Veilingweg De Lier en  Park Koekamp Den Haag</titel></kop><zakelijke-mededeling><zakelijke-mededeling-tekst><tekst><al/><al><nadruk type=\"vet\">Leggeractualisatie: </nadruk>LEGGER2023-D-14</al><al>Dijkgraaf en hoogheemraden van Delfland zijn voornemens om de leggerkaart behorende bij de Legger Delfland partieel te wijzigen, zoals aangegeven op de digitale verbeelding van de leggerwijziging \u201c<nadruk type=\"cur\">Leggerwijzigingskaart terinzagelegging (leggeractualisatie </nadruk><nadruk type=\"cur\">LEGGER2023-D-14</nadruk><nadruk type=\"cur\">)</nadruk>\u201d.<nadruk type=\"cur\"/>De leggerkaart moet samen met de leggertekst (het tekstuele deel van de legger) gelezen worden.</al><al/><al>Deze kaart zal alleen gedurende de periode van de terinzagelegging beschikbaar zijn, en kan worden bekeken via deze links: <extref doc=\"https://hhdelfland.maps.arcgis.com/apps/MapSeries/index.html?appid=25e0fca4b4a74f6bbf7d66fbf2bf1f87\">https://hhdelfland.maps.arcgis.com/apps/MapSeries/index.html?appid=25e0fca4b4a74f6bbf7d66fbf2bf1f87</extref> en <extref doc=\"https://www.hhdelfland.nl/over-ons/regelgeving/legger/leggerwijzigingen-leggercorrecties/\">https://www.hhdelfland.nl/over-ons/regelgeving/legger/leggerwijzigingen-leggercorrecties/</extref>.</al><al/><al>De periode van de terinzagelegging vangt aan op 10 augustus 2023 en eindigt op 22 september 2023. Na inwerkingtreding van het definitieve besluit is de leggerkaart gewijzigd volgens deze parti\u00eble wijziging.</al><al/><al>De wijziging volgt op de voltooide uitvoering volgens de eerder verleende watervergunningen:</al><al/><lijst><li><li.nr>\u2022</li.nr><al>Z-23-095618 (Watervergunning \u2013 Boswoning 106 gemeente Westland (Honselersdijk));</al></li><li><li.nr>\u2022</li.nr><al>Z-23-094960 (Watervergunning \u2013 Nieuwe Tuinen gemeente Westland (Honselersdijk)); </al></li><li><li.nr>\u2022</li.nr><al>Z-23-095222 (Watervergunning \u2013 Lange Kruisweg gemeente Westland (Maasdijk));</al></li><li><li.nr>\u2022</li.nr><al>Z-21-017137 (Watervergunning Brasserskade te Den Haag);</al></li><li><li.nr>\u2022</li.nr><al>Z-22-081163 (Watervergunning Slimme Watering te Schiedam);</al></li><li><li.nr>\u2022</li.nr><al>2019-014323 (Watervergunning Reinier de Graafweg, gemeente Delft);</al></li><li><li.nr>\u2022</li.nr><al>Z-22-086759 (Watervergunning \u2013 Van Beethovenlaan/Josef Oreliosingel Schiedam);</al></li><li><li.nr>\u2022</li.nr><al>Z-22-077645 (Watervergunning Zwethkade Zuid 57 gemeente Midden-Delfland (Den Hoorn));</al></li><li><li.nr>\u2022</li.nr><al>Z-22-080196 (Watervergunning Veilingweg gemeente Westland (De Lier)); en </al></li><li><li.nr>\u2022</li.nr><al>2019-015049 (Watervergunning Park Koekamp, gemeente Den Haag).</al></li></lijst><al>Hiermee zijn nieuwe waterstaatswerken aangelegd of al bestaande waterstaatswerken gewijzigd of (deels) verwijderd. De nieuwe situatie wordt in de legger opgenomen om deze actueel te houden. Voor deze waterstaatswerken wordt opgenomen: </al><al>a. de waterstaatswerken naar ligging, vorm, afmeting, constructie en functie en ook de daaraan grenzende beschermingszone en profielen van vrije ruimte, en </al><al>b. onderhoudsplichtigen en onderhoudsverplichtingen. </al><al/><al>Deze kaart toont alleen de gewijzigde waterstaatswerken en zoneringen in de legger (nieuw, gewijzigd en verwijderd) \u2013 inclusief bijbehorende gegevens. Niet gewijzigde (onder)delen van de legger zijn geen onderdeel geweest van besluitvorming. Hier staan dus ook geen rechtsmiddelen tegen open.</al><al/><al>De volgende bestanden maken deel uit van het besluit tot leggerwijziging LEGGER2023-D-14:</al><al>- DMS#2212889 \u2013 Parti\u00eble leggerwijziging LEGGER2023-D-14; en</al><al>- DMS#2212446 \u2013 Leggerwijzigingsdatabase LEGGER2023-D-14.</al><al/><al><nadruk type=\"vet\">Stukken inzien</nadruk></al><al>Het ontwerpbesluit en de daarop betrekking hebbende stukken (uitgezonderd DMS#2212446) zijn met ingang van de dag van de publicatie in het Waterschapsblad in te zien. U kunt de stukken digitaal raadplegen via de bijlagen bij deze publicatie. Het is ook mogelijk om de stukken, gedurende inzagetermijn, te komen inzien bij het Hoogheemraadschap van Delfland aan de Phoenixstraat 32, 2611 AL te Delft. U kunt hiervoor een afspraak maken via onderstaande contactgegevens.</al><al/><al>De leggerwijzigingsdatabase (DMS#2212446) is enkel van belang om de digitale leggerwijzigingskaart (te raadplegen via bovenstaande url) tot stand te brengen en is daarom niet bij deze publicatie gevoegd. Uiteraard kunt u de leggerwijzigingsdatabase altijd opvragen of komen inzien bij het Hoogheemraadschap van Delfland.</al><al/><al><nadruk type=\"vet\">Zienswijze indienen</nadruk></al><al>Belanghebbenden kunnen vanaf de dag waarop het ontwerpbesluit ter inzage is gelegd gedurende zes weken een mondelinge en/of schriftelijke zienswijze indienen. Meer informatie over het indienen van een zienswijze kunt u vinden op: <extref doc=\"https://www.hhdelfland.nl/over-ons/regelgeving/legger/zienswijze-indienen/\">https://www.hhdelfland.nl/over-ons/regelgeving/legger/zienswijze-indienen/</extref>.</al><al/><al><nadruk type=\"vet\">Wat gebeurt er met uw </nadruk><nadruk type=\"vet\">zienswijze</nadruk><nadruk type=\"vet\">?</nadruk></al><al>Uw zienswijze wordt door het bestuur van Delfland zorgvuldig beoordeeld. Vervolgens wordt de definitieve leggerwijziging vastgesteld. Hierna ontvangt u een schriftelijke reactie op uw zienswijze van het bestuur.</al><al/><al><nadruk type=\"vet\">Contact</nadruk></al><al>Voor het maken van een afspraak voor inzage en voor vragen naar aanleiding van deze kennisgeving kunt u op werkdagen van 9:00 tot 16:00 uur contact opnemen met het Klant Contact Centrum (KCC), te bereiken op telefoonnummer (015) 260 81 08 of via\u00a0<extref doc=\"mailto:loket@hhdelfland.nl\">loket@hhdelfland.nl</extref>.</al><al/></tekst></zakelijke-mededeling-tekst><zakelijke-mededeling-sluiting><ondertekening><!--al naar functie elementen vertaald (inhoudelijk gedeeltelijk onjuist)--></ondertekening></zakelijke-mededeling-sluiting></zakelijke-mededeling></waterschapsblad></officiele-publicatie>"
+}
