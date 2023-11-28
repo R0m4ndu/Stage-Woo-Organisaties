@@ -15,7 +15,7 @@ Eind november hadden 239 van de 1052 bestuursorganen een Woo-contactpersoon opge
 
 | Soort contactinformatie | % (N=239) |
 |:------------------------|----------:|
-| Naam contactpersoon               |      99.6% |
+| Gegevens contactpersoon               |      99.6% |
 | Emailadres | 51.7% |
 | Telefoonnummer | 42.9% |
 | Webpagina | 30.0% |
@@ -32,7 +32,7 @@ De Woo is begonnen met werkdefinities voor vier categorieën: Woo-besluiten, ber
 
 ## Conclusie
 
-Na vijf maanden begint de Woo-index flink gevuld te raken. Volgens Marianne de Nooij van de Provincie Zuid Holland kost het invullen maar een half uurtje. We hopen dat steeds meer bestuursorganen volgen. Tot slot, de winnaars met de meest ingevulde categorieën zijn de gemeenten [Amersfoort](https://organisaties.overheid.nl/woo/35134/Gemeente_Amersfoort#locaties-woo-documenten) en [Koggenland](https://organisaties.overheid.nl/woo/22332/Gemeente_Koggenland#locaties-woo-documenten), en het waterschap [Hollands Noorderkwartier](https://organisaties.overheid.nl/woo/21145/Hoogheemraadschap_Hollands_Noorderkwartier#locaties-woo-documenten). Zij hebben inmiddels voor 14 van 17 categorieën de hyperlink ingevuld.
+Na vijf maanden begint de Woo-index flink gevuld te raken. Volgens Marianne de Nooij van de Provincie Zuid Holland kost het invullen maar een half uurtje. We hopen dat steeds meer bestuursorganen volgen. Tot slot, de winnaars met de meest ingevulde categorieën zijn de gemeenten [Amersfoort](https://organisaties.overheid.nl/woo/35134/Gemeente_Amersfoort#locaties-woo-documenten) en [Koggenland](https://organisaties.overheid.nl/woo/22332/Gemeente_Koggenland#locaties-woo-documenten), en het waterschap [Hollands Noorderkwartier](https://organisaties.overheid.nl/woo/21145/Hoogheemraadschap_Hollands_Noorderkwartier#locaties-woo-documenten). Zij hebben inmiddels voor 14 van de 16 toepasselijke categorieën de hyperlink ingevuld.
 
 |                           Woo-informatiecategorie                           |    % (N=661) |
 |:-----------------------------------------------------|-----:|
