@@ -13,7 +13,7 @@ Er is gekozen om dit voor vijf verschillende informatie categorieën te doen. De
 - De convenanten (samenwerkingen) van het waterschap
 - De vergaderingen en de bijbehorende raadsstukken
 - De bekendmakingen / beschikkingen
-- De Woo-dossiers
+- Uitleg hoe men een Woo-verzoek moet doen en de publicatie van de Woo-dossiers
 
 Hieronder zullen voor elk van deze categorieën de resultaten worden weergegeven.
 
