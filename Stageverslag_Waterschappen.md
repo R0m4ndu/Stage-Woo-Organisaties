@@ -45,8 +45,8 @@ In deze varianten is het bijvoorbeeld moeilijk om alle agenda’s overzichtelijk
 Het vinden van besluitenlijsten is soms ook moeilijk in de standaardmodellen. Terwijl deze het toch relatief makkelijk zouden moeten maken om deze wel op een overzichtelijke manier weer te geven.
 Wat sommige waterschappen dan weer wel goed doen. 
 
-## Beschikkingen
-Dit wordt eigenlijk altijd op dezelfde manier gedaan door de waterschappen. Soms ontbreekt dit volledig, maar bij de meeste waterschappen is er sprake van een lange lijst van alle publicaties op officielebekendmakingen.nl. 
+## Bekendmakingen
+Dit wordt eigenlijk altijd op dezelfde manier gedaan door de waterschappen. Soms ontbreekt dit volledig, maar bij de meeste waterschappen is er sprake van een lange lijst van alle publicaties op officielebekendmakingen.nl. Met hierbij telkens redelijk beperkte metadata, eigenlijk alleen de titel, het onderwerp en de datum. De waterschappen maken het wel mogelijk om door middel van een zoekmachine door deze bekendmakingen te zoeken. 
 
 ## Woo uitleg en dossiers
 De meeste waterschappen leggen wel vrij duidelijk uit hoe men een Woo-verzoek kan doen, of zelfs een standaardmodel bieden, wat het invullen van een verzoek heel makkelijk maakt.
