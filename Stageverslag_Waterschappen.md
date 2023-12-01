@@ -48,7 +48,7 @@ Wat sommige waterschappen dan weer wel goed doen.
 # Beschikkingen
 Dit wordt eigenlijk altijd op dezelfde manier gedaan door de waterschappen. Soms ontbreekt dit volledig, maar bij de meeste waterschappen is er sprake van een lange lijst van alle publicaties op officielebekendmakingen.nl. 
 
-Woo uitleg en dossiers
+# Woo uitleg en dossiers
 De meeste waterschappen leggen wel vrij duidelijk uit hoe men een Woo-verzoek kan doen, of zelfs een standaardmodel bieden, wat het invullen van een verzoek heel makkelijk maakt.
 De ene uitleg is wat uitgebreider dan de ander, maar het moet zeker mogelijk zijn om een Woo-verzoek te doen bij al deze waterschappen.
 Het publiceren van Woo-dossiers is echter iets wat een stuk minder vaak plaatsvindt. Dit gebeurt op dit moment slechts bij zeven van de 21 waterschappen.
