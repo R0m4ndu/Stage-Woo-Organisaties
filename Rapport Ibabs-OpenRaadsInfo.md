@@ -38,3 +38,21 @@ Hoewel het natuurlijk fantastisch is dat deze API bestaat zijn er toch nog wel e
 ### Ibabs Analyse
 Dit vierde nadeel is wellicht het meest interessant om te onderzoeken. Omdat de structuur van Ibabs eigenlijk voor iedere organisatie hetzelfde is zal het niet moeilijk zijn om al deze webpagina's van de rapporten te scrapen. Op deze manier wordt er een indicatie gegeven van welke metadata wordt misgelopen in de API. Op deze manier leren we ook hoe deze rapporten worden ingevuld. Kunnen medewerkers zelf kiezen wat ze invullen of zijn hier gestandaardiseerde termen voor? Door dit te doen voor twee verschillende gemeenten Hoorn en Utrecht kunnen ook verschillen worden waargenomen. Hoe uniform zijn deze gegevens voor verschillende gemeenten? 
 
+Voor het verzamelen van de Ibabs gegevens zijn een aantal wel bestaande attributen niet meegenomen omdat ze niet heel interessant zijn om te verzamelen. Dat zijn het zaaknummer, het vergaderschema en de bijlagen (want deze staan gewoon met meer metadata in de API zelf). Over alle rapporten heeft de gemeente Hoorn 24 verschillende Ibabs attributen en de gemeente Utrecht slechts 18. Dit is vrij vreemd omdat de gemeente Utrecht veel meer rapporten heeft dan de gemeente Hoorn (meer dan 16.000 t.o.v 2500). Het blijkt dan ook dat de gemeente Hoorn deze attributen veel vaker invult. Een rapport bij de gemeente Hoorn heeft namelijk gemiddeld bijna 4.5 ibabs attributen per rapport. Terwijl de gemeente Utrecht het met een schamele 2 attributen per rapport moet doen (tabel 1).
+
+|   aantal attributen |   count Utecht |   count Hoorn |
+|----------------------:|----------------:|----------------:|
+|                   0 |            4823 |            357  |
+|                   1 |            2167 |            368  |
+|                   2 |            5047 |            124  |
+|                   3 |             944 |            119  |
+|                   4 |            1145 |             93  |
+|                   5 |             304 |            225  |
+|                   6 |            1621 |            307  |
+|                   7 |             114 |            550  |
+|                   8 |              96 |            229  |
+|                   9 |              35 |             78  |
+|                  10 |              15 |             35  |
+|                  11 |               4 |              4  |
+|                  12 |             0 |              1  |
+
