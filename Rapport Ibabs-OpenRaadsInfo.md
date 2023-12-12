@@ -40,7 +40,7 @@ Dit vierde nadeel is wellicht het meest interessant om te onderzoeken. Omdat de 
 
 Voor het verzamelen van de Ibabs gegevens zijn een aantal wel bestaande attributen niet meegenomen omdat ze niet heel interessant zijn om te verzamelen. Dat zijn het zaaknummer, het vergaderschema en de bijlagen (want deze staan gewoon met meer metadata in de API zelf). Over alle rapporten heeft de gemeente Hoorn 24 verschillende Ibabs attributen en de gemeente Utrecht slechts 18. Dit is vrij vreemd omdat de gemeente Utrecht veel meer rapporten heeft dan de gemeente Hoorn (meer dan 16.000 t.o.v 2500). Het blijkt dan ook dat de gemeente Hoorn deze attributen veel vaker invult. Een rapport bij de gemeente Hoorn heeft namelijk gemiddeld bijna 4.5 ibabs attributen per rapport. Terwijl de gemeente Utrecht het met een schamele 2 attributen per rapport moet doen (tabel 1).
 
-|   aantal attributen |   count Utecht |   count Hoorn |
+|   attributen |   count Utecht |   count Hoorn |
 |----------------------:|----------------:|----------------:|
 |                   0 |            4823 |            357  |
 |                   1 |            2167 |            368  |
