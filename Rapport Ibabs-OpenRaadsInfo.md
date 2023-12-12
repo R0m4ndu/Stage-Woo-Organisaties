@@ -56,3 +56,110 @@ Voor het verzamelen van de Ibabs gegevens zijn een aantal wel bestaande attribut
 |                  11 |               4 |              4  |
 |                  12 |             0 |              1  |
 
+** Tabel 1: Het aantal keer dat een rapport een bepaald aantal attributen heeft bij de gemeenten Utrecht (N = 16315) en Hoorn (N = 2490) **
+
+Het is echter zeer aannemelijk dat het aantal attributen afhangt van het type rapport waar deze aan toebehoort. Het is bijvoorbeeld aannemelijk dat een motie veel meer metadata heeft dan een besluitenlijst. Bij de motie zijn er vaak indieners en allerlei datums terwijl een besluitenlijst toch vaak een besluitenlijst is. In eerste instantie moeten we hiervoor weten wat voor soort rapporten beiden organisaties hebben. 
+
+| Rapport Typen Utrecht               |   aantal |   attributen per rapport |
+|:----------------------------------|---------:|-------------:|
+| Raadsbrieven                     |    8426 |         1.30 |
+| Schriftelijke vragen             |    3989 |         4.93 |
+| RSS                              |    1390 |         0.02 |
+| Memo's                           |     945 |         1.78 |
+| Verslagen M&S                    |     576 |         0.00 |
+| Verslagen S&R                    |     406 |         0.00 |
+| Verslagen Vragenuur              |     233 |         1.82 |
+| Besluitenlijst B&W               |     191 |         0.01 |
+| Archief                          |      59 |         0.15 |
+| Vragen Coronavirus               |      51 |         3.00 |
+| Export                           |      30 |         2.23 |
+| Referendumcommissie              |      10 |         0.00 |
+| Coalitievorming 2022             |       5 |         0.00 |
+| Geheimhoudingsregister            |       4 |         0.75 |
+
+** Tabel 2: Gemiddeld aantal attributen per type rapport voor de gemeente Utrecht **
+
+| Rapport Typen Hoorn               |   aantal |   attributen per rapport |
+|:----------------------------------|---------:|-------------:|
+| Moties                           |     651 |         6.14 |
+| RSS                              |     450 |         3.94 |
+| Toezeggingen                     |     365 |         6.82 |
+| Artikel 36 vragen                |     349 |         7.14 |
+| Ingekomen stukken - College      |     326 |         1.06 |
+| Besluitenlijst B&W               |     309 |         0.00 |
+| Financiële documenten            |      35 |         0.14 |
+| Verordeningen Raad en Commissies |       5 |         0.00 |
+
+** Tabel 3: Gemiddeld aantal attributen per type rapport voor de gemeente Hoorn **
+
+Als eerste blijkt het dat de rapport typen niet heel erg goed overeenkomen. Eigenlijk zijn er maar twee hetzelfde, dat zijn de besluitenlijst B&W en de RSS attributen. Verder zijn er ook grote verschillen in de aantallen. Bij Utrecht zijn de aantallen niet heel evenredig verdeeld. Er zijn heel veel Raadsbrieven en Schrijftelijke vragen, maar hierna zijn er een aantal attributen met redelijk aantal, maar er zijn nog meer soorten Rapporten met minder dan 100 items. Bij Hoorn zijn de aantallen een stuk evenrediger verdeeld er zijn van alle documenten ongeveer evenveel, op een aantal na. De hypothese dat bepaalde soorten rapporten meer ibabs attributen hebben wordt hiermee bevestigd besluitenlijsten hebben namelijk (quasi) nooit attributen terwijl moties er bij Hoorn gemiddeld meer dan zes hebben. Het valt op dat bij Utrecht eigenlijk alleen de Schrijftelijke vragen een gemiddeld vergelijkbaar aantal attributen heeft dan het gemiddelde van Hoorn. Er blijken hier dus op alle fronten grote verschillen te zijn tussen Utrecht en Hoorn. 
+
+Maar welke ibabs attributen hebben deze organisaties eigenlijk? Eerder was al genoemd dat Hoorn en 24 had en Utrecht slechts 18. Hiervan blijken er X overeen te komen, dat zijn: Gerelateerde items, Portefeuillehouder, Afgedaan, Deadline, Omschrijving, Onderwerp, Datum beantwoording en Opmerking. 
+
+| ibabs_column                            |   aantal |
+|:------------------------------------------|---------:|
+| ibabs_Gerelateerde items                 |       90 |
+| ibabs_Toelichting                        |      576 |
+| ibabs_Partijen                           |     1431 |
+| ibabs_Portefeuillehouder                 |     1357 |
+| ibabs_Status                             |      631 |
+| ibabs_Afgedaan                           |     1349 |
+| ibabs_Agendapunt                         |      977 |
+| ibabs_Domein                             |      226 |
+| ibabs_Stemmen                            |      363 |
+| ibabs_Stand van zaken                    |      443 |
+| ibabs_Datum afgedaan                     |      276 |
+| ibabs_Medewerker                         |      366 |
+| ibabs_Deadline                           |       82 |
+| ibabs_Afzender                           |      324 |
+| ibabs_Omschrijving                       |        1 |
+| ibabs_Onderwerp                          |        9 |
+| ibabs_Datum uiterlijke beantwoording    |      521 |
+| ibabs_Steller                            |      506 |
+| ibabs_Datum B&W                          |      162 |
+| ibabs_Datum beantwoording                |      605 |
+| ibabs_Opmerking                          |       17 |
+| ibabs_Datum tussenbericht                |       80 |
+| ibabs_Datum ingekomen                    |      348 |
+| ibabs_Toezegging                         |      362 |
+
+** Tabel 4: Het aantal rapporten met een bepaald ibabs attribuut bij de gemeente Hoorn **
+
+In tabel 4 is te zien hoe vaak bepaalde ibabs items voorkomen bij de gemeente Hoorn. Aangezien Hoorn in totaal bijna 2500 rapporten heeft blijkt al gelijk dat het grootste deel van de attributen niet veelvuldig voorkomen. Het attribuut omschrijving komt bijvoorbeeld slechts 1 keer voor. Eigenlijk zijn er maar drie attributen die bij meer dan de helft van de rapporten voorkomen. Dit is natuurlijk te verklaren door het feit dat er ook veel rapporten zijn zonder attributen. 
+
+| ibabs_column               |   aantal |
+|:-----------------------------|---------:|
+| ibabs_Kenmerk                |     3929 |
+| ibabs_Indiener(s)            |     3951 |
+| ibabs_Mede-indieners         |       91 |
+| ibabs_Onderwerp              |       78 |
+| ibabs_Beleidsveld            |     7311 |
+| ibabs_Portefeuillehouder     |    10513 |
+| ibabs_Deadline               |       66 |
+| ibabs_Datum beantwoording    |     1527 |
+| ibabs_Afgedaan               |      126 |
+| ibabs_Relatie met            |       77 |
+| ibabs_Thema                  |     3672 |
+| ibabs_Datum invoer           |        3 |
+| ibabs_Gerelateerde items     |      109 |
+| ibabs_Opmerking              |      357 |
+| ibabs_Datum wijziging        |      729 |
+| ibabs_Omschrijving           |      234 |
+| ibabs_Opmerkingen            |        9 |
+| ibabs_Inhoud                 |      212 |
+
+** Tabel 5: Het aantal rapporten met een bepaald ibabs attribuut bij de gemeente Utrecht **
+
+Uit tabel 5 blijkt dat de attributen bij Utrecht nog veel minder voorkomen er zijn namelijk bijna 16000 rapporten en eigenlijk alleen portefeuillehouder en beleidsveld komen hier redelijk vaak voor. Terwijl er nog drie andere attributen zijn die in ongeveer een kwart van de rapporten voorkomen. Verder zijn er ook veel attributen die minder dan 500 keer voorkomen. Dit is bij 11 van de 18 (61%) van de attributen zo. 
+
+# Analyse alle Rapporten
+
+Uiteindelijk zijn de rapporten van alle gemeenten uit de API verzameld. Hierbij horen de volgende statistieken. Van in totaal 107 gemeenten zijn rapporten verzameld. Dit zijn in totaal 158.378 rapporten met 251.185 verschillende documenten. Samen hebben deze 1.601.812 pagina's. Tot slot is er nogmaals een analyse gedaan over het type rapport, maar nu voor al deze gemeenten. Het blijkt dat er in totaal 262 verschillende soorten termen worden gebruikt om deze rapporten te classificeren. Dit is dus niet heel uniform. Zo worden er bijvoorbeeld veel verschillende termen gebruikt voor dezelfde soort documenten:
+
+TODO: analyse voor vergelijkbare termen voor bijvoorbeeld besluitenlijsten moties etc. Zoals in de scriptie van Maik.
+
+TODO: Wellicht nog een subkopje over de agenda's. 
+
+# Conclusie
+
+Allereerst is het duidelijk dat de ori API een waardevolle toevoeging is voor de Woogle, want het geeft veel overheidsdocumeten voor een tot op heden nauwelijks verzamelde informatiesoort. Het is verder volkomen begrijpelijk waarom gekozen is voor het schrappen van veel van de metadata die wel op de website te vinden is. Deze metadata is nauwelijks uniform en zal daarom waarschijnlijk verschillen van organisatie tot organisatie en dat komt de herbruikbaarheid zeker niet ten goede, terwijl dat natuurlijk juist het streven was van die hele API. Deze slechte uniformiteit is ook aanwezig voor de verschillende typen rapporten, maar deze zijn typen zijn wel noodzakelijk. Naast het gebrek aan uniformiteit was bij alleen al Hoorn en Utrecht ook al een groot verschil te zien in de hoeveelheid ibabs metadata bij de rapporten. De gemeente Hoorn vulde deze veel vaker in en de verschillen tussen de typen rapporten waren hierbij zoals verwacht er groot. 
