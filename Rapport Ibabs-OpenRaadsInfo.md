@@ -159,9 +159,24 @@ Dit zijn eigenlijk alle gemeenten met minstens één rapport met minstens één 
 
 Tot slot is er nogmaals een analyse gedaan over het type rapport, maar nu voor al deze gemeenten. Het blijkt dat er in totaal 262 verschillende soorten termen worden gebruikt om deze rapporten te classificeren. Dit is dus niet heel uniform. Zo worden er bijvoorbeeld veel verschillende termen gebruikt voor dezelfde soort documenten:
 
-TODO: analyse voor vergelijkbare termen voor bijvoorbeeld besluitenlijsten moties etc. Zoals in de scriptie van Maik.
+| type classificaties         | aantal | voorbeelden |
+|:---------------------------:|-------:|:------------|
+| besluiten                  |     52 | Besluitenlijst B&W, Collegebesluiten ter informatie, Besluitenlijsten college, Besluitenlijsten B&W, Raadsbesluiten, B&W besluiten |
+| vragen                     |     35 | Raadsvragen, Schriftelijke Vragen, Schriftelijke Vragen en Antwoorden,  Artikel 43 vragen, Raadsvragen en antwoorden |
+| stukken (e.d)              |     28 | Ingekomen stukken, Informatieve Stukken College, Lijst Ingekomen Stukken, Ingekomen stukken - College |
+| verslagen                  |     18 | Verslagen Raad, Verslagen, Verslagen M&S, Verslagen S&R, Verslagen raad, Verslag Raad |
+| brieven                    |     14 | Raadsbrieven, Brieven aan de raad, Raadsinformatiebrieven, Collegebrieven, Post aan de raad |
+| moties                     |     11 | Moties, Archief moties/ toezeggingen/ art 44/ rappellijst, Moties en Amendementen, moties export, Moties WS export |
+| informatie                 |      9 | Informatienota's, Raadsinfo, Notities ter info, Informatie van het college, Informatie voor de raad |
+| Verordeningen              |      7 | Verordeningen en regelingen, Verordeningen Raad en Commissies, Verordeningen/reglementen, Verordeningen van de Raad |
 
-TODO: Wellicht nog een subkopje over de agenda's. 
+** Tabel 6: Het aantal verschillende termen gebruikt voor vergelijkbare overheidsrapporten + een aantal voorbeelden
+
+Dit blijkt uit tabel 6. Hierin zijn al deze verschillende classificaties op een redelijk simpele manier geclassificeerd tot een bepaald type. Alle classificaties die het woord besluit in hun naam hebben zijn dus onderverdeeld tot de besluiten. Natuurlijk zal niet ieder besluit, of iedere besluitenlijst exact dezelfde functie hebben, maar met 262 verschillende termen is dit de enige gangbare manier om dit te doen. 
+
+# Agenda's
+
+Ook alle agenda's uit de API zijn verzameld. Deze zijn voor een stuk meer geschikte gemeenten beschikbaar. Dit zijn er 250 en dus een stuk meer dan bij de rapporten. In totaal zijn er slechts 64.216 agenda's dus dat zijn er een pak minder dan bij de rapporten. Echter heeft een agenda vaak veel agendapunten met veel bijlagen, wat uiteindelijk resulteerd in een hoger aantal pagina's. In totaal zijn er 431.339 agendapunten, met in totaal 814.563 verschillende bijlagen. Deze bijlagen zijn samen goed voor meer dan 8.630.206 pagina's wat dus neer kan komen op ongeveer een verdubbeling van het aantal pagina's op Woogle. Kanttekeningen hierbij zijn dat het er op lijkt dat het aantal pagina's wellicht nog hoger uit kan vallen door bijlagen die nog helemaal niet ingelezen zijn, of dat dit aantal lager uit kan vallen door gemeenten waarvan bepaalde metadata niet gebruikt kan worden. Dit heeft voornamelijk te maken met het eerder genoemde nadeel over identifiers van de webpublicatie van de agenda's, wat op veel verschillende manieren gebeurd en daarom soms niet of nauwelijks achterhaald kan worden.
 
 # Conclusie
 
