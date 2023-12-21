@@ -1,7 +1,8 @@
 Stagerapport: Openraadsinformatie + iBabs
 
-Naam: Ramon Duursma
-UvANetID: 12851779
+**Naam:** Ramon Duursma
+
+**UvANetID:** 12851779
 
 ## Open Raadsinformatie
 
