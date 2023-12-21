@@ -1,8 +1,8 @@
 # Stageverslag: Waterschappen Onderzoekje
 
-* Naam: Ramon Duursma
-* UvAnetID: 12851779
-* Stagebegeleider: Maarten Marx
+* **Naam:** Ramon Duursma
+* **UvAnetID:** 12851779
+* **Stagebegeleider:** Maarten Marx
 
 Onderzoek naar de openbaarmaking van een aantal informatie categorieën die onder de Wet Open Overheid (Woo) vallen voor alle 21 Nederlandse Waterschappen
 
@@ -26,19 +26,19 @@ Hierbij moet worden gedacht aan gegevens zoals e-mail, telefoonnummer, partijnaa
 Dit waren de basisgegevens waar naar werd gezocht, maar in een aantal gevallen zijn er toch nog andere vormen van bereikbaarheidsgegevens gevonden zoals bijvoorbeeld woonplaats,
 of bijvoorbeeld sprekersfragmenten of het stemgedrag van een bestuurslid. 
 
-Gemiddeld genomen hebben de bestuursleden van waterschappen iets minder dan 6 van deze bereikbaarheidsgegevens.
+Gemiddeld genomen hebben de bestuursleden van waterschappen iets minder dan zes van deze bereikbaarheidsgegevens.
 Bij het waterschap Hunze en Aa’s is dit het meest beperkt. Hier worden eigenlijk alleen de partijnaam en het e-mailadres van de bestuursleden vrijgegeven.
 Terwijl waterschap De Dommel het beste scoort met maar liefst negen verschillende manieren van contactinformatie. 
 
 ## Convenanten
 Deze zijn helaas bijna onvindbaar op de website van de waterschappen zelf. Slechts twee van de waterschappen hebben überhaupt een pagina voor de convenanten met daadwerkelijk iets er op.
 Dit zijn het Hoogheemraadschap van Schieland de Krimpenerwaard, wat eigenlijk alleen een lijst van samenwerkingen is, en Waterschap Rivierenland, wat een lijst van PDF-files met daarin de samenwerking is.
-Ook het Hoogheemraadschap Hollands Noorderkwartier heeft een pagina voor convenanten, maar hier wordt alleen gemeld dat ze in de toekomst convenanten hier gaan publiceren. In deze categorie is er dus nog veel werk aan de winkel. 
+Ook het Hoogheemraadschap Hollands Noorderkwartier heeft een pagina voor convenanten, maar hier wordt alleen gemeld dat ze hier in de toekomst convenanten gaan publiceren. In deze categorie is er dus nog veel werk aan de winkel. 
 
 ## Vergaderingen + Raadsstukken
 Hier zijn eigenlijk drie verschillende varianten identificeerbaar. Er bestaan twee standaardmodellen voor deze bestuurlijke informatie.
-Dit zijn de Ibabs en NoTuBiz modellen. Deze bieden eigenlijk een kant en klaar pakket aan dat het voor de waterschappen enorm makkelijk maakt om de vergaderingen en bijbehorende documenten op een geordende manier vrij te geven.
-Deze hebben beiden hun voor en nadelen, maar zijn uitermate geschikt indien de organisatie deze daadwerkelijk goed implementeert. Grotere problemen bestaan met het derde variant.
+Dit zijn de iBabs en NotuBiz modellen. Deze bieden eigenlijk een kant en klaar pakket aan dat het voor de waterschappen enorm makkelijk maakt om de vergaderingen en bijbehorende documenten op een geordende manier vrij te geven.
+Deze hebben beiden hun voor en nadelen, maar zijn uitermate geschikt indien de organisatie deze daadwerkelijk goed implementeert. Grotere problemen bestaan met de derde variant.
 Dit is een eigen variant van het waterschap zelf en dit kwam een aantal keer voor tijdens dit onderzoek. Het blijkt bij deze varianten al snel dat de kwaliteit hiervan meestal een stuk minder is dan die van de standaardmodellen.
 Dit was bijvoorbeeld het geval bij Vallei en Veluwe, Drents Overijsselse Delta (die ook wel wat goede punten hadden) en Hunze en Aa’s.
 In deze varianten is het bijvoorbeeld moeilijk om alle agenda’s overzichtelijk te krijgen, of is het vinden van besluitenlijsten erg moeilijk.
@@ -46,13 +46,13 @@ Het vinden van besluitenlijsten is soms ook moeilijk in de standaardmodellen. Te
 Wat sommige waterschappen dan weer wel goed doen. 
 
 ## Bekendmakingen
-Dit wordt eigenlijk altijd op dezelfde manier gedaan door de waterschappen. Soms ontbreekt dit volledig, maar bij de meeste waterschappen is er sprake van een lange lijst van alle publicaties op officielebekendmakingen.nl. Met hierbij telkens redelijk beperkte metadata, eigenlijk alleen de titel, het onderwerp en de datum. De waterschappen maken het wel mogelijk om door middel van een zoekmachine door deze bekendmakingen te zoeken. 
+Dit wordt eigenlijk altijd op dezelfde manier gedaan door de waterschappen. Soms ontbreekt dit volledig, maar bij de meeste waterschappen is er sprake van een lange lijst van alle publicaties op officielebekendmakingen.nl. Met hierbij telkens redelijk beperkte metadata, eigenlijk alleen de titel, het onderwerp en de datum. De waterschappen maken het meestal wel mogelijk om door middel van een zoekmachine door deze bekendmakingen te zoeken. 
 
 ## Woo uitleg en dossiers
-De meeste waterschappen leggen wel vrij duidelijk uit hoe men een Woo-verzoek kan doen, of zelfs een standaardmodel bieden, wat het invullen van een verzoek heel makkelijk maakt.
+De meeste waterschappen leggen wel vrij duidelijk uit hoe men een Woo-verzoek kan doen, of zelfs een invulpagina bieden, wat het invullen van een verzoek heel makkelijk maakt.
 De ene uitleg is wat uitgebreider dan de ander, maar het moet zeker mogelijk zijn om een Woo-verzoek te doen bij al deze waterschappen.
 Het publiceren van Woo-dossiers is echter iets wat een stuk minder vaak plaatsvindt. Dit gebeurt op dit moment slechts bij zeven van de 21 waterschappen.
-Al deze waterschappen doen dit op hele verschillende wijzen, maar het is telkens wel overzichtelijk. 
+Al deze waterschappen doen dit op hele verschillende wijzen, maar het is telkens wel overzichtelijk. Voor de overige waterschappen is hier dus nog werk aan de winkel.
 
 
 
