@@ -1,4 +1,4 @@
-Stagerapport: Openraadsinformatie + iBabs
+**Stagerapport:** Openraadsinformatie + iBabs
 
 **Naam:** Ramon Duursma
 
