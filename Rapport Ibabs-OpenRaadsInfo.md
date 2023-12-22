@@ -30,6 +30,7 @@ Maar wat zijn deze rapporten en meetings nou eigenlijk? De rapporten is een term
 
 ### Nadelen van de API
 Hoewel het natuurlijk fantastisch is dat deze API bestaat zijn er toch nog wel een aantal nadelen te vinden.
+
 - Het maximaal aantal hits op deze API is 10.000 dus als er meer documenten zijn dan is er een omweg nodig om alsnog alles te verzamelen.
 - Hoewel een aantal provincies al wel staan op de website van Open Raadsinformatie zijn deze nog niet beschikbaar in de API. Op dit moment zijn het dus alleen gemeenten.
 - Alle mediaobjecten die machineleesbaar zijn hebben een attribuut voor bodytext, maar in veel gevallen is het document niet-machineleesbaar en dat betekent dat voor gebruik op Woogle alsnog OCR moet plaatsvinden op veel documenten en dat kost tijd.
@@ -57,7 +58,7 @@ Voor het verzamelen van de iBabs gegevens zijn een aantal wel bestaande attribut
 |                  11 |               4 |              4  |
 |                  12 |             0 |              1  |
 
-** Tabel 1: Het aantal keer dat een rapport een bepaald aantal attributen heeft bij de gemeenten Utrecht (N = 16315) en Hoorn (N = 2490) **
+**Tabel 1: Het aantal keer dat een rapport een bepaald aantal attributen heeft bij de gemeenten Utrecht (N = 16315) en Hoorn (N = 2490)**
 
 In tabel 1 zijn deze verschillen duidelijk te zien. Bij de gemeente Utrecht bestaan vooral rapporten met nul of twee attributen, terwijl bij de gemeente Hoorn zeven attributen het meest voorkomen is. natuurlijk zijn hier ook rapporten met twee of minder attributen, maar een veel groter deel hebben er minstens vier. 
 
@@ -80,7 +81,7 @@ Het is echter zeer aannemelijk dat het aantal attributen afhangt van het type ra
 | Coalitievorming 2022             |       5 |         0.00 |
 | Geheimhoudingsregister            |       4 |         0.75 |
 
-** Tabel 2: Gemiddeld aantal attributen per type rapport voor de gemeente Utrecht **
+**Tabel 2: Gemiddeld aantal attributen per type rapport voor de gemeente Utrecht**
 
 | Rapport Typen Hoorn               |   aantal |   attributen per rapport |
 |:----------------------------------|---------:|-------------:|
