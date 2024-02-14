@@ -1,0 +1,79 @@
+{
+    "nl.oorg10001.2k.2023-2024": [
+        {
+            "resource": "nl.oorg10001.2k.2023-2024.",
+            "infobox": {
+                "dc_title": "Presentie en opening",
+                "dc_date_year": "2023-2024",
+                "foi_publishedDate": "2024-02-13",
+                "dc_publisher_name": "Eerste Kamer der Staten-Generaal",
+                "tooiwl_topic": [
+                    "Bestuur | Parlement"
+                ],
+                "dc_source": "https:\/\/zoek.officielebekendmakingen.nl\/h-ek-20232024-11-1",
+                "dc_publisher": "oorg10001",
+                "dc_description": "Aerdts, Van Apeldoorn, Bakker-Klein, Van Ballekom, Baumgarten, Van den Berg, Bovens, Bruijn, Croll, Crone, Doornhof, Van Gasteren, Geerdink, Goossen, Griffioen, Van Gurp, Hartog, Van Hattem, Heijnen, Holterhues, Huizinga-Heringa, Janssen, Karimi, Kemperman, Klip-Martin, Kluit, Van Knapen, Kox, Van Langen-Visbeek, Marquart Scholtz, Martens, Van Meenen, Moonen, Nanninga, Nicola\u00ef, Van den Oetelaar, Panman, Perin-Gopie, Ramsodit, Van Rooijen, Schalk, Schippers, Van Strien, Talsma, Visseren-Hamakers, Vogels en Vos, en de heer Van Rij, staatssecretaris Fiscaliteit en Belastingdienst.",
+                "foi_files": {
+                    "foi_documenten": [
+                        {
+                            "dc_title": "Presentie en opening",
+                            "dc_source": "https:\/\/zoek.officielebekendmakingen.nl\/h-ek-20232024-11-1.pdf",
+                            "dc_type": "Offici\u00eble Publicatie",
+                            "foi_url_on_web": true
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "resource": "nl.oorg10001.2k.2023-2024.",
+            "infobox": {
+                "dc_title": "Mededelingen",
+                "dc_date_year": "2023-2024",
+                "foi_publishedDate": "2024-02-13",
+                "dc_publisher_name": "Eerste Kamer der Staten-Generaal",
+                "tooiwl_topic": [
+                    "Bestuur | Parlement"
+                ],
+                "dc_source": "https:\/\/zoek.officielebekendmakingen.nl\/h-ek-20232024-11-2",
+                "dc_publisher": "oorg10001",
+                "dc_description": "",
+                "foi_files": {
+                    "foi_documenten": [
+                        {
+                            "dc_title": "Mededelingen",
+                            "dc_source": "https:\/\/zoek.officielebekendmakingen.nl\/h-ek-20232024-11-2.pdf",
+                            "dc_type": "Offici\u00eble Publicatie",
+                            "foi_url_on_web": true
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "resource": "nl.oorg10001.2k.2023-2024.",
+            "infobox": {
+                "dc_title": "Sluiting",
+                "dc_date_year": "2023-2024",
+                "foi_publishedDate": "2024-02-13",
+                "dc_publisher_name": "Eerste Kamer der Staten-Generaal",
+                "tooiwl_topic": [
+                    "Bestuur | Parlement"
+                ],
+                "dc_source": "https:\/\/zoek.officielebekendmakingen.nl\/h-ek-20232024-11-4",
+                "dc_publisher": "oorg10001",
+                "dc_description": "",
+                "foi_files": {
+                    "foi_documenten": [
+                        {
+                            "dc_title": "Sluiting",
+                            "dc_source": "https:\/\/zoek.officielebekendmakingen.nl\/h-ek-20232024-11-4.pdf",
+                            "dc_type": "Offici\u00eble Publicatie",
+                            "foi_url_on_web": true
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
