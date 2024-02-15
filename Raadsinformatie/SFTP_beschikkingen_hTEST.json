@@ -1,7 +1,7 @@
 {
-    "nl.oorg10001.h-ek.20232024.11": [
+    "nl.oorg10001.h.20232024.11": [
         {
-            "resource": "nl.oorg10001.h-ek.20232024.11.1",
+            "resource": "nl.oorg10001.h.20232024.11.1",
             "infobox": {
                 "dc_title": "Presentie en opening",
                 "dc_type": "Handelingen",
@@ -29,7 +29,7 @@
             }
         },
         {
-            "resource": "nl.oorg10001.h-ek.20232024.11.2",
+            "resource": "nl.oorg10001.h.20232024.11.2",
             "infobox": {
                 "dc_title": "Mededelingen",
                 "dc_type": "Handelingen",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "resource": "nl.oorg10001.h-ek.20232024.11.4",
+            "resource": "nl.oorg10001.h.20232024.11.4",
             "infobox": {
                 "dc_title": "Sluiting",
                 "dc_type": "Handelingen",
@@ -85,9 +85,9 @@
             }
         }
     ],
-    "nl.oorg10002.h-tk.20232024.20": [
+    "nl.oorg10002.h.20232024.20": [
         {
-            "resource": "nl.oorg10002.h-tk.20232024.20.1",
+            "resource": "nl.oorg10002.h.20232024.20.1",
             "infobox": {
                 "dc_title": "Presentie en opening",
                 "dc_type": "Handelingen",
@@ -115,7 +115,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.20.2",
+            "resource": "nl.oorg10002.h.20232024.20.2",
             "infobox": {
                 "dc_title": "Verslag van de commissie voor het onderzoek van de Geloofsbrieven",
                 "dc_type": "Handelingen",
@@ -144,7 +144,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.20.3",
+            "resource": "nl.oorg10002.h.20232024.20.3",
             "infobox": {
                 "dc_title": "Ontwerpprofielschets voor de functie van Voorzitter van de Tweede Kamer",
                 "dc_type": "Handelingen",
@@ -173,7 +173,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.20.4",
+            "resource": "nl.oorg10002.h.20232024.20.4",
             "infobox": {
                 "dc_title": "Afscheid van de Kamer in oude samenstelling",
                 "dc_type": "Handelingen",
@@ -202,7 +202,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.20.5",
+            "resource": "nl.oorg10002.h.20232024.20.5",
             "infobox": {
                 "dc_title": "Sluiting",
                 "dc_type": "Handelingen",
@@ -230,9 +230,9 @@
             }
         }
     ],
-    "nl.oorg10002.h-tk.20232024.21": [
+    "nl.oorg10002.h.20232024.21": [
         {
-            "resource": "nl.oorg10002.h-tk.20232024.21.1",
+            "resource": "nl.oorg10002.h.20232024.21.1",
             "infobox": {
                 "dc_title": "Presentie en opening",
                 "dc_type": "Handelingen",
@@ -260,7 +260,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.21.2",
+            "resource": "nl.oorg10002.h.20232024.21.2",
             "infobox": {
                 "dc_title": "Be\u00ebdiging tijdelijk Voorzitter",
                 "dc_type": "Handelingen",
@@ -289,7 +289,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.21.3",
+            "resource": "nl.oorg10002.h.20232024.21.3",
             "infobox": {
                 "dc_title": "Be\u00ebdiging van de overige leden",
                 "dc_type": "Handelingen",
@@ -318,7 +318,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.21.4",
+            "resource": "nl.oorg10002.h.20232024.21.4",
             "infobox": {
                 "dc_title": "Profielschets voor de functie van Voorzitter van de Tweede Kamer",
                 "dc_type": "Handelingen",
@@ -347,7 +347,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.21.5",
+            "resource": "nl.oorg10002.h.20232024.21.5",
             "infobox": {
                 "dc_title": "Mededelingen",
                 "dc_type": "Handelingen",
@@ -375,7 +375,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.21.6",
+            "resource": "nl.oorg10002.h.20232024.21.6",
             "infobox": {
                 "dc_title": "Regeling van werkzaamheden",
                 "dc_type": "Handelingen",
@@ -403,7 +403,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.21.7",
+            "resource": "nl.oorg10002.h.20232024.21.7",
             "infobox": {
                 "dc_title": "Sluiting",
                 "dc_type": "Handelingen",
@@ -431,7 +431,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.21.8",
+            "resource": "nl.oorg10002.h.20232024.21.8",
             "infobox": {
                 "dc_title": "Lijst van ingekomen stukken",
                 "dc_type": "Handelingen",
@@ -459,9 +459,9 @@
             }
         }
     ],
-    "nl.oorg10002.h-tk.20232024.22": [
+    "nl.oorg10002.h.20232024.22": [
         {
-            "resource": "nl.oorg10002.h-tk.20232024.22.1",
+            "resource": "nl.oorg10002.h.20232024.22.1",
             "infobox": {
                 "dc_title": "Presentie en opening",
                 "dc_type": "Handelingen",
@@ -489,7 +489,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.22.2",
+            "resource": "nl.oorg10002.h.20232024.22.2",
             "infobox": {
                 "dc_title": "Landbouw- en Visserijraad van 20 november 2023 en van 10-11 december",
                 "foi_linkedDossier": [
@@ -527,7 +527,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.22.3",
+            "resource": "nl.oorg10002.h.20232024.22.3",
             "infobox": {
                 "dc_title": "Stemmingen moties Landbouw- en Visserijraad van 20 november en van 10 en 11 december 2023",
                 "foi_linkedDossier": [
@@ -565,7 +565,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.22.4",
+            "resource": "nl.oorg10002.h.20232024.22.4",
             "infobox": {
                 "dc_title": "Regeling van werkzaamheden",
                 "dc_type": "Handelingen",
@@ -593,7 +593,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.22.5",
+            "resource": "nl.oorg10002.h.20232024.22.5",
             "infobox": {
                 "dc_title": "Sluiting",
                 "dc_type": "Handelingen",
@@ -621,9 +621,9 @@
             }
         }
     ],
-    "nl.oorg10002.h-tk.20232024.23": [
+    "nl.oorg10002.h.20232024.23": [
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.1",
+            "resource": "nl.oorg10002.h.20232024.23.1",
             "infobox": {
                 "dc_title": "Presentie en opening",
                 "dc_type": "Handelingen",
@@ -651,7 +651,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.10",
+            "resource": "nl.oorg10002.h.20232024.23.10",
             "infobox": {
                 "dc_title": "Regeling van werkzaamheden",
                 "dc_type": "Handelingen",
@@ -679,7 +679,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.11",
+            "resource": "nl.oorg10002.h.20232024.23.11",
             "infobox": {
                 "dc_title": "Europese top van 14 en 15 december 2023",
                 "foi_linkedDossier": [
@@ -734,7 +734,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.12",
+            "resource": "nl.oorg10002.h.20232024.23.12",
             "infobox": {
                 "dc_title": "Sluiting",
                 "dc_type": "Handelingen",
@@ -762,7 +762,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.13",
+            "resource": "nl.oorg10002.h.20232024.23.13",
             "infobox": {
                 "dc_title": "Lijst van ingekomen stukken",
                 "dc_type": "Handelingen",
@@ -790,7 +790,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.2",
+            "resource": "nl.oorg10002.h.20232024.23.2",
             "infobox": {
                 "dc_title": "Vragenuur: Vragen van het lid Podt aan de staatssecretaris van Justitie en Veiligheid over het bericht \"Rode Kruis schiet te hulp bij overvol aanmeldcentrum Ter Apel\".",
                 "dc_type": "Handelingen",
@@ -819,7 +819,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.3",
+            "resource": "nl.oorg10002.h.20232024.23.3",
             "infobox": {
                 "dc_title": "Vragenuur: Vragen van het lid Olger van Dijk aan de minister van Infrastructuur en Waterstaat over de generieke invoering van de maximumsnelheid van 30km\/uur in Amsterdam, terwijl het OM dit als geen \"geloofwaardige maximumsnelheid\" kwalificeert.",
                 "dc_type": "Handelingen",
@@ -848,7 +848,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.4",
+            "resource": "nl.oorg10002.h.20232024.23.4",
             "infobox": {
                 "dc_title": "Afscheid van het lid L.M.C. Marijnissen (SP)",
                 "dc_type": "Handelingen",
@@ -877,7 +877,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.5",
+            "resource": "nl.oorg10002.h.20232024.23.5",
             "infobox": {
                 "dc_title": "Mededelingen",
                 "dc_type": "Handelingen",
@@ -905,7 +905,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.6",
+            "resource": "nl.oorg10002.h.20232024.23.6",
             "infobox": {
                 "dc_title": "Be\u00ebdiging mevrouw J. van den Hil (VVD), de heer Tjeerd de Groot (D66) en mevrouw M. Synhaeve (D66)",
                 "dc_type": "Handelingen",
@@ -934,7 +934,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.7",
+            "resource": "nl.oorg10002.h.20232024.23.7",
             "infobox": {
                 "dc_title": "Mededelingen",
                 "dc_type": "Handelingen",
@@ -962,7 +962,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.8",
+            "resource": "nl.oorg10002.h.20232024.23.8",
             "infobox": {
                 "dc_title": "Stemming brief Voordracht ter vervulling van de vacature van Griffier",
                 "dc_type": "Handelingen",
@@ -991,7 +991,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.23.9",
+            "resource": "nl.oorg10002.h.20232024.23.9",
             "infobox": {
                 "dc_title": "Mededelingen",
                 "dc_type": "Handelingen",
@@ -1019,9 +1019,9 @@
             }
         }
     ],
-    "nl.oorg10002.h-tk.20232024.24": [
+    "nl.oorg10002.h.20232024.24": [
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.1",
+            "resource": "nl.oorg10002.h.20232024.24.1",
             "infobox": {
                 "dc_title": "Presentie en opening",
                 "dc_type": "Handelingen",
@@ -1049,7 +1049,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.10",
+            "resource": "nl.oorg10002.h.20232024.24.10",
             "infobox": {
                 "dc_title": "Stemmingen moties Verkiezingsuitslag",
                 "foi_linkedDossier": [
@@ -1091,7 +1091,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.11",
+            "resource": "nl.oorg10002.h.20232024.24.11",
             "infobox": {
                 "dc_title": "Sluiting",
                 "dc_type": "Handelingen",
@@ -1119,7 +1119,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.12",
+            "resource": "nl.oorg10002.h.20232024.24.12",
             "infobox": {
                 "dc_title": "Lijst van ingekomen stukken",
                 "dc_type": "Handelingen",
@@ -1147,7 +1147,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.2",
+            "resource": "nl.oorg10002.h.20232024.24.2",
             "infobox": {
                 "dc_title": "Mededelingen",
                 "dc_type": "Handelingen",
@@ -1175,7 +1175,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.3",
+            "resource": "nl.oorg10002.h.20232024.24.3",
             "infobox": {
                 "dc_title": "Verkiezingsuitslag",
                 "dc_type": "Handelingen",
@@ -1205,7 +1205,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.4",
+            "resource": "nl.oorg10002.h.20232024.24.4",
             "infobox": {
                 "dc_title": "Regeling van werkzaamheden",
                 "dc_type": "Handelingen",
@@ -1233,7 +1233,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.5",
+            "resource": "nl.oorg10002.h.20232024.24.5",
             "infobox": {
                 "dc_title": "Be\u00ebdiging van mevrouw S.E.M. Dobbe (SP)",
                 "dc_type": "Handelingen",
@@ -1262,7 +1262,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.6",
+            "resource": "nl.oorg10002.h.20232024.24.6",
             "infobox": {
                 "dc_title": "Mededelingen",
                 "dc_type": "Handelingen",
@@ -1290,7 +1290,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.7",
+            "resource": "nl.oorg10002.h.20232024.24.7",
             "infobox": {
                 "dc_title": "Verkiezingsuitslag",
                 "foi_linkedDossier": [
@@ -1332,7 +1332,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.8",
+            "resource": "nl.oorg10002.h.20232024.24.8",
             "infobox": {
                 "dc_title": "Regeling van werkzaamheden (stemmingen)",
                 "foi_linkedDossier": [
@@ -1363,7 +1363,7 @@
             }
         },
         {
-            "resource": "nl.oorg10002.h-tk.20232024.24.9",
+            "resource": "nl.oorg10002.h.20232024.24.9",
             "infobox": {
                 "dc_title": "Stemmingen moties Europese top van 14 en 15 december 2023",
                 "foi_linkedDossier": [
